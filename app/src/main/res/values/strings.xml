@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Screenshot Organizer</string>
+    <string name="app_tagline">Ekran görüntüsü karmaşasına son. Her şey artık yerli yerinde.</string>
+    <string name="app_subtitle">Ekran görüntülerini yapay zekâyla otomatik olarak düzenle.</string>
+    
+    <!-- Navigation -->
+    <string name="nav_home">Ana Sayfa</string>
+    <string name="nav_collections">Koleksiyonlar</string>
+    <string name="nav_search">Ara</string>
+    <string name="nav_stats">İstatistikler</string>
+    <string name="nav_settings">Ayarlar</string>
+
+    <!-- Home -->
+    <string name="greeting_title">Günaydın, %1$s</string>
+    <string name="greeting_subtitle">Ekran görüntülerin artık düzenli.</string>
+    <string name="stat_total">Toplam Görsel</string>
+    <string name="stat_analyzed">Analiz Edilen</string>
+    <string name="stat_pending">Bekleyen</string>
+    <string name="stat_this_week">Bu Hafta</string>
+    <string name="action_start_scan">Taramayı Başlat</string>
+    <string name="scan_card_title">Yeni Ekran Görüntülerini Düzenle</string>
+    <string name="scan_card_desc">Yapay zekâ telefonundaki yeni görüntüleri analiz edip kategorilendirsin.</string>
+    <string name="section_categories">Kategoriler</string>
+    <string name="section_recent">Son Eklenenler</string>
+    <string name="section_ai_suggestions">AI Önerileri</string>
+    <string name="section_pending_review">Düzenlenmeyi Bekleyenler</string>
+    <string name="section_upcoming_dates">Yaklaşan Önemli Tarihler</string>
+    
+    <!-- Privacy -->
+    <string name="privacy_banner_text">Ekran görüntüleriniz size aittir. Screenshot Organizer, içerikleri yalnızca sizin izninizle analiz eder. Hassas bilgilerinizin kontrolü her zaman sizdedir.</string>
+    <string name="sensitive_info_warning">Bu görselde hassas bilgi (IBAN, kart veya kimlik) tespit edildi.</string>
+    
+    <!-- Empty states -->
+    <string name="empty_screenshots_title">Henüz ekran görüntüsü bulunamadı</string>
+    <string name="empty_screenshots_desc">Ekran görüntüsü klasörünüzde yeni görseller olduğunda veya tara düğmesine bastığınızda burada görünecek.</string>
+    <string name="empty_search_title">Sonuç bulunamadı</string>
+    <string name="empty_search_desc">Farklı anahtar kelimeler veya doğal dille aramayı deneyebilirsiniz (Örn: \"Geçen ayki faturalar\").</string>
+    <string name="empty_collection_title">Bu koleksiyon henüz boş</string>
+    
+    <!-- Common Actions -->
+    <string name="action_view_all">Tümünü Gör</string>
+    <string name="action_cancel">İptal</string>
+    <string name="action_save">Kaydet</string>
+    <string name="action_delete">Sil</string>
+    <string name="action_edit">Düzenle</string>
+    <string name="action_share">Paylaş</string>
+    <string name="action_copy_text">Metni Kopyala</string>
+    <string name="action_add_to_collection">Koleksiyona Ekle</string>
+    <string name="action_create_reminder">Hatırlatıcı Oluştur</string>
+    <string name="action_not_now">Şimdi Değil</string>
+    <string name="action_get_started">Başlayalım</string>
+    <string name="action_settings">Ayarları Aç</string>
+</resources>

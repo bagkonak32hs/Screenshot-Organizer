@@ -1,0 +1,6 @@
+{
+  "name": "Screenshot Organizer",
+  "description": "Ekran görüntülerini yapay zekâyla otomatik olarak düzenle. Ekran görüntüsü karmaşasına son. Her şey artık yerli yerinde.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
